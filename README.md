@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tolujacob05
+- 👋 Hi, I’m Akinjare Toluwase Matthew @tolujacob05
 - 👀 I’m interested a frontend developer
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate with all aspects of tech
+- 💞️ I’m looking to collaborate in/with all aspects of tech
 - 📫 How to reach me twitter, gmail and instagram 
 
 <!---
