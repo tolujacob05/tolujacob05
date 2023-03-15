@@ -1,6 +1,11 @@
 - 👋 Hi, I’m Akinjare Toluwase Matthew @tolujacob05
 - 👀 I’m interested a frontend developer
-- 🌱 I’m currently learning ...
+- 🌱 I’m a web and mobile frontend designer with the following tools in/on deck
+- HTML,
+- CSS/SCSS
+- REACT,
+- TYPRSCRIPT,
+- GIT
 - 💞️ I’m looking to collaborate in/with all aspects of tech
 - 📫 How to reach me twitter, gmail and instagram 
 
