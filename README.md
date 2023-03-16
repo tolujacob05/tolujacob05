@@ -5,6 +5,7 @@
 - CSS/SCSS
 - REACT,
 - TYPRSCRIPT,
+- JAVASCRIPT,
 - GIT
 - 💞️ I’m looking to collaborate in/with all aspects of tech
 - 📫 How to reach me twitter, gmail and instagram 
