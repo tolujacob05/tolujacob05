@@ -4,7 +4,7 @@
 - HTML,
 - CSS/SCSS
 - REACT,
-- TYPRSCRIPT,
+- TYPESCRIPT,
 - JAVASCRIPT,
 - GIT
 - 💞️ I’m looking to collaborate in/with all aspects of tech
